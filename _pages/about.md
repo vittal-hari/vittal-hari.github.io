@@ -1,18 +1,19 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Climate Science, Indian Monsoon, Vulnerability"
+excerpt: "Climate Science, Indian Monsoon, Vulnerability, Heatwaves"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Assistant Professor in Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India. My areas of specializations are climate science, Indian Monsoon, Vulnerability and  
+I am Assistant Professor in Indian Institute of Technology (Indian School of Mines), Dhanbad, Jharkhand, India. My areas of specializations are climate science, Indian Monsoon, Vulnerability and Heatwaves.
 
 
-A data-driven approach
+My Group
 ======
+
 
 
 <!--- 
