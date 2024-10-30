@@ -26,7 +26,7 @@ PloS one 11 (7), e0158670
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
+<!-- New style rendering if publication categories are defined 
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -46,6 +46,6 @@ PloS one 11 (7), e0158670
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
+-->
 
 
