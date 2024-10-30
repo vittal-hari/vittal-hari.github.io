@@ -14,6 +14,7 @@ I am Assistant Professor in Indian Institute of Technology (Indian School of Min
 My Group
 ======
 
+![image](images/bio-photo-2.jpg)
 
 
 <!--- 
