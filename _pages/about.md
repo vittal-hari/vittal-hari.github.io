@@ -15,6 +15,14 @@ My Group
 ======
 
 ![image](images/bio-photo-2.jpg)
+Name:
+Description of Project
+
+
+![image](images/bio-photo-2.jpg)
+Name:
+Description of Project
+
 
 
 <!--- 
